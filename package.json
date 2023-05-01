@@ -1,0 +1,25 @@
+{
+  "name": "webgpu-metaverse",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbo",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.13.0",
+    "@types/node": "18.16.3",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.1",
+    "@types/three": "^0.151.0",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.2",
+    "next": "13.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.152.2",
+    "typescript": "5.0.4"
+  }
+}
