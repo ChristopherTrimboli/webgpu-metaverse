@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+canvas {
+  height: 100vh;
+  width: 100vw;
+}
